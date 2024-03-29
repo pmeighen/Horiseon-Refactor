@@ -2,7 +2,7 @@
 UCF Bootcamp: Horiseon-Refactor project
 
 This project is a refactor of the HTML / CSS code behind the Horiseon Marketing home page.  
-Some changes were made to the HTML code (div's replaced with sections).  More significant changes have been made to the CSS code.
+Some changes were made to the HTML code (div's replaced with sections).  More significant changes were made to the CSS code.
 CSS changes were made to consolidate code and increase eficiency.
 The URL for the deployed page is: https://pmeighen.github.io/Horiseon-Refactor/
 Here is a screen shot of the page:
