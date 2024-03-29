@@ -1,5 +1,5 @@
 # Horiseon-Refactor
-UCF Bootcamp Homework to Refactor
+UCF Bootcamp: Horiseon-Refactor project
 
 This project was a refactor of the code that is the Horiseon Marketing home page.  
 Some changes have been made to the HTML code and more significant changes have been made to the CSS code.
